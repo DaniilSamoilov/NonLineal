@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonLineal", "NonLineal.csproj", "{862C6B6B-8833-45EB-A756-7B17EBD516F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{862C6B6B-8833-45EB-A756-7B17EBD516F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862C6B6B-8833-45EB-A756-7B17EBD516F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862C6B6B-8833-45EB-A756-7B17EBD516F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862C6B6B-8833-45EB-A756-7B17EBD516F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39F904D0-57FF-4A69-A8B9-E2D92A5A9B1F}
+	EndGlobalSection
+EndGlobal
